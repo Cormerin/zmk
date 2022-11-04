@@ -308,7 +308,6 @@ function PowerProfiler() {
                       </option>
                       <option value="EPAPER">ePaper</option>
                       <option value="OLED">OLED</option>
-                      <option value="NICEVIEW">nice!view</option>
                     </select>
                   </div>
                 )}
